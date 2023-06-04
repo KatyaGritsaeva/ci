@@ -38,6 +38,6 @@ out/
 *.rar
 
 ### Exclusions ###
-!AppVeyor/gradle/wrapper/gradle-wrapper.jar
+!ci/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
